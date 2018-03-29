@@ -2,11 +2,23 @@
 
 #### _Music Blog for Education, 11.8.2016_
 
-#### By _**Ezra, Erica, Lina, Steve**_
+#### By _**Lina Shadrach, Erica Nafzinger, Steve Burton, Ezra Sandzer-Bell**_
 
 ## Description
 
-_The site allows users to register a new blog. The purpose of the blog itself is to explore musical themes and compare them to one another._
+_The site allows users to register a new blog. The purpose of the blog itself is to explore musical themes and compare them to one another. Users can create new blog posts with videos, text, images and tags._
+
+#### Splash Page
+
+![alt-text](https://github.com/LinaShadrach/blogsite/blob/master/splash-img.png)
+
+#### Create a Profile Page
+
+![alt-text](https://github.com/LinaShadrach/blogsite/blob/master/create-profile-img.png)
+
+#### View Blog Page
+
+![alt-text](https://github.com/LinaShadrach/blogsite/blob/master/blog-img.png)
 
 ## Specs (BDD)
 
@@ -39,10 +51,10 @@ _The site allows users to register a new blog. The purpose of the blog itself is
 
 ## Technologies Used
 
-_Javascript/Jquery/Css/Bootstrap/Html/Github_
+_Bootstrap, CSS, HTML, Javascript, jQuery_
 
 ### License
 
 *Open Source*
 
-Copyright (c) 2016 **_Ezra, Erica, Lina, Steve_**
+Copyright (c) 2016 _**Lina Shadrach, Erica Nafzinger, Steve Burton, Ezra Sandzer-Bell**_
